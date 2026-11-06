@@ -1,0 +1,26 @@
+{
+  "width": 1280,
+  "height": 720,
+  "outpost": {
+    "ground": 508,
+    "soldier": {
+      "x": 520,
+      "feet": 556,
+      "minX": 90,
+      "maxX": 1190,
+      "idle": "levels/outpost/soldier_idle.png",
+      "walk": "levels/outpost/soldier_walk.png"
+    }
+  },
+  "fortress": {
+    "bridgeSurface": 436,
+    "alien": {
+      "x": 640,
+      "feet": 436,
+      "minX": 520,
+      "maxX": 760,
+      "idle": "levels/fortress/alien_idle.png",
+      "walk": "levels/fortress/alien_walk.png"
+    }
+  }
+}
